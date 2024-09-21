@@ -60,7 +60,7 @@ export default function HomeDrawer() {
       }}
     >
       <Drawer.Screen
-        name="HomeScreen"
+        name="Home"
         component={HomeScreen}
         options={{
           drawerLabel: "Home",
